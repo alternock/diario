@@ -20,3 +20,11 @@ de mis actividades 2022
 ---
 ## para manejo de versiones 
 [etiquetas](https://shields.io/)	
+
+
+nombre | cargo | tech 
+-------|-------|------
+foo    | dev   | php
+bar    | ux    | figma
+baz    | dev   | python
+**quz**| dev   | ❎ 
