@@ -16,3 +16,7 @@ de mis actividades 2022
 
 ## adicional te comento que me ecnantan los emoticones, si me escribes usalos...
 [emoticones](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+---
+## para manejo de versiones 
+[etiquetas](https://shields.io/)	
