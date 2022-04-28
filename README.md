@@ -14,3 +14,5 @@ de mis actividades 2022
 + si te gusta mi diario escribeme al correo: foo@fooo.com
 ```
 
+## adicional te comento que me ecnantan los emoticones, si me escribes usalos...
+[emoticones](https://www.webfx.com/tools/emoji-cheat-sheet/)
